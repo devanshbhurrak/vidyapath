@@ -1,0 +1,39 @@
+# ====================
+# Node.js & NPM
+# ====================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ====================
+# Environment Variables
+# ====================
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ====================
+# Build / Output
+# ====================
+# React / Vite
+/dist
+/.vite
+/build
+
+# Server
+/*.log
+logs/
+*.pid
+*.seed
+*.pid.lock
+
+# ====================
+# OS Files
+# ====================
+.DS_Store
+Thumbs.db
+desktop.ini
+
